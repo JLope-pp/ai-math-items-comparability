@@ -1,6 +1,6 @@
-# Elaboración de un documento técnico sobre la validez de ítems de matemática generados con IA generativa: evidencia por niveles de demanda cognitiva en escuelas públicas del Perú
+# How Comparable Are AI-Generated Mathematics Items to Those Written by Pedagogical Specialists?
 
-Public, reproducible companion to the paper *"Elaboración de un documento técnico sobre la validez de ítems de matemática generados con IA generativa: evidencia por niveles de demanda cognitiva en escuelas públicas del Perú"*.
+Public, reproducible companion to the paper *"How Comparable Are AI-Generated Mathematics Items to Those Written by Pedagogical Specialists? Evidence on Cognitive Demand in Peruvian Public Secondary Schools."*
 
 ## Contents
 
