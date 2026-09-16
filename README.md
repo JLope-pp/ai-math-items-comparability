@@ -1,6 +1,6 @@
-# How Comparable Are AI-Generated Mathematics Items to Those Written by Pedagogical Specialists?
+# How Comparable Are AI-Generated Mathematics Items to Those Written by Pedagogical Specialists? Evidence on Cognitive Demand in Peruvian Public Secondary Schools
 
-Public, reproducible companion to the paper *"How Comparable Are AI-Generated Mathematics Items to Those Written by Pedagogical Specialists? Evidence on Cognitive Demand in Peruvian Public Secondary Schools."*
+Public, reproducible companion to the paper of the same title.
 
 ## Contents
 
